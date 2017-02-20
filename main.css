@@ -1,0 +1,55 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya:400,700);
+
+body{
+  background-color: #40A7BF
+}
+#box{
+  margin: auto;
+}
+a{
+  color: black;
+  font-size:20px;
+  font-size:1em;
+}
+.searchresult{
+  border-color: #ED7702;
+  background-color: #FFA750;
+  color: black;
+  margin: 1em;
+  magin-left: -10em;
+}
+button{
+  border-color: #ED7702;
+  background-color: #FFA750;
+  margin-top: 1em;
+  margin-left: 1em;
+  border-radius: 25em;
+  color: black;
+  font-size: 1em;
+  align: right;
+
+}
+#title{
+  color: black;
+  font-family: 'Alegreya', serif;
+}
+ul{
+  magin-left: -10em;
+  padding: 0px;
+
+}
+li{
+  list-style-type: none;
+}
+.search-title{
+  font-size: 1.2em;
+  color: black;
+  font-family: 'Alegreya', serif;
+}
+.search-body{
+  font-family: 'Alegreya', serif;
+  font-size: 1.1em;
+}
+.content{
+  margin-left;
+}
